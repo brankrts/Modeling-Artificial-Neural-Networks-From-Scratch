@@ -1,0 +1,11 @@
+
+
+class Network:
+    
+
+https://www.linkedin.com/pulse/forward-back-propagation-over-cnn-code-from-scratch-coy-ulloa/
+https://www.youtube.com/watch?v=0zbhg79i_Bs
+https://www.linkedin.com/pulse/building-convolutional-neural-network-using-numpy-from-ahmed-gad/?source=post_page-----b30aac50e50a--------------------------------
+https://github.com/AlessandroSaviolo/CNN-from-Scratch/blob/master/src/inout.py
+https://www.kaggle.com/code/lusfernandotorres/convolutional-neural-network-from-scratch
+https://github.com/vzhou842/cnn-from-scratch/blob/master/cnn.py
